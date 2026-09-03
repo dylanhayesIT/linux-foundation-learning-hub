@@ -1,0 +1,17 @@
+{
+  "linux_foundation": [
+    "CKA",
+    "CKAD",
+    "CKS",
+    "LFCS",
+    "PCA"
+  ],
+  "microsoft": [
+    "AI-103",
+    "AI-200",
+    "AB-210",
+    "PL-300",
+    "PL-400"
+  ],
+  "scenario": "secure cloud-native AI and business platform"
+}
