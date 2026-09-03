@@ -11,5 +11,5 @@
 | AI-103 | [https://rentry.co/microsoft-azure-ai-103-exam-guide-2026](https://rentry.co/microsoft-azure-ai-103-exam-guide-2026) |
 | AI-200 | [https://rentry.co/microsoft-azure-ai-102-exam-guide-2026](https://rentry.co/microsoft-azure-ai-102-exam-guide-2026) |
 | AB-210 | [https://rentry.co/dynamics-365-ab-210-exam-guide-2026](https://rentry.co/dynamics-365-ab-210-exam-guide-2026) |
-| PL-300 | [https://rentry.co/microsoft-power-bi-pl-300-exam-guide-2026](https://rentry.co/microsoft-power-bi-pl-300-exam-guide-2026) |
+| PL-300 | [https://rentry.co/power-bi-pl-300-guide](https://rentry.co/power-bi-pl-300-guide) |
 | PL-400 | [https://rentry.co/microsoft-pl-400-power-platform-developer-exam-guide-2026](https://rentry.co/microsoft-pl-400-power-platform-developer-exam-guide-2026) |
